@@ -1,4 +1,4 @@
-![Img](Img_cars.png)
+![Img](Img_cars)
 
 # Proyecto: Análisis del mercado de automóviles
 
